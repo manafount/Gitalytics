@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.search-container {
+  width: 60%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.user-search input {
+  width: 100%;
+  font-size: 100%;
+}
